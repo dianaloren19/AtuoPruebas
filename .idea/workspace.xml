@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce18630e-384d-4563-8d0f-4fd748d52be9" name="Changes" comment="" />
+    <list default="true" id="ce18630e-384d-4563-8d0f-4fd748d52be9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/co/com/example/runners/EjemploGlobalRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/co/com/example/runners/EjemploGlobalRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/EjemploGlobal.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/EjemploGlobal.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/webdriver/windows/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/webdriver/windows/chromedriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/co/com/example/tasks/BuscarProducto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/co/com/example/tasks/BuscarProducto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/browser-chrome.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/browser-chrome.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/webdriver/windows/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/webdriver/windows/chromedriver.exe" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

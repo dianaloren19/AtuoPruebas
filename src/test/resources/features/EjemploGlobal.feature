@@ -22,5 +22,3 @@ Característica: Realizar compras de artículos
     Ejemplos:
       | cantidadAgregar | nombreProducto                         | tipoCategoria   |
       | 3               | Máscara de respirador N95              | Belleza y salud |
-      | 4               | Gel desinfectante de manos de 50ml 75% | Belleza y salud |
-      | 5               | Máscara de Gas facial 4 estilo 6800    | Belleza y salud |
