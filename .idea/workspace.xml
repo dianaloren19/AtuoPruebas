@@ -5,14 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ce18630e-384d-4563-8d0f-4fd748d52be9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/example/tasks/AgregarProducto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/example/tasks/AgregarProducto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/example/tasks/BuscarProducto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/example/tasks/BuscarProducto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/example/userinterfaces/CarroCompras.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/example/userinterfaces/CarroCompras.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/example/userinterfaces/DetallesArticuloPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/example/userinterfaces/DetallesArticuloPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/example/userinterfaces/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/example/userinterfaces/HomePage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/co/com/example/runners/EjemploGlobalRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/co/com/example/runners/EjemploGlobalRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/EjemploGlobal.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/EjemploGlobal.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/webdriver/windows/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/webdriver/windows/chromedriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/co/com/example/tasks/AgregarProducto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/co/com/example/tasks/AgregarProducto.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/co/com/example/tasks/BuscarProducto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/co/com/example/tasks/BuscarProducto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/co/com/example/userinterfaces/CarroCompras.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/co/com/example/userinterfaces/CarroCompras.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/co/com/example/userinterfaces/DetallesArticuloPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/co/com/example/userinterfaces/DetallesArticuloPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/co/com/example/userinterfaces/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/co/com/example/userinterfaces/HomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/4ee6b4bf733620c6e356086db0feefc559edaf5abc33e3b30b08b32a663b1610.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/4ee6b4bf733620c6e356086db0feefc559edaf5abc33e3b30b08b32a663b1610.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/4ee6b4bf733620c6e356086db0feefc559edaf5abc33e3b30b08b32a663b1610.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/4ee6b4bf733620c6e356086db0feefc559edaf5abc33e3b30b08b32a663b1610.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/4ee6b4bf733620c6e356086db0feefc559edaf5abc33e3b30b08b32a663b1610_screenshots.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/4ee6b4bf733620c6e356086db0feefc559edaf5abc33e3b30b08b32a663b1610_screenshots.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-4ee6b4bf733620c6e356086db0feefc559edaf5abc33e3b30b08b32a663b1610.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-4ee6b4bf733620c6e356086db0feefc559edaf5abc33e3b30b08b32a663b1610.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/browser-chrome.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/browser-chrome.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/webdriver/windows/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/webdriver/windows/chromedriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/co/com/example/runners/EjemploGlobalRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/co/com/example/runners/EjemploGlobalRunner.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

@@ -31,7 +31,7 @@ public class BuscarProducto implements Task {
                 //SelectFromOptions.byVisibleText(tipoCategoria).from(SELECT_TIPO_CATEGORIA),
                 Hit.the(Keys.ENTER).into(INPUT_BUSCAR_ARTICULO)); //Seleccionar producto a agregar
         validarVentanaEmergente(actor);
-        actor.attemptsTo(Click.on(LNK_ARTICULO_ENCONTRADO.of(descripcion)));
+        actor.attemptsTo(Click.on(LNK_ARTICULO_ENCONTRADO));
         for (String winHandle : getDriver().getWindowHandles()) {
             getDriver().switchTo().window(winHandle);
         }

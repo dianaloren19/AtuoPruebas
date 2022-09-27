@@ -13,6 +13,6 @@ public class HomePage extends PageObject {
     public static final Target BUTTON_BUSCAR_ARTICULO = Target.the("Botón buscar artículo").located(By.className("search-button"));
     public static final Target BUTTON_CERRAR_VENTANA1 = Target.the("Botón cerrar ventana emergente").located(By.className("close-layer"));
     public static final Target BUTTON_CERRAR_VENTANA2 = Target.the("Botón cerrar ventana emergente").located(By.className("next-dialog-close"));
-    public static final Target LNK_ARTICULO_ENCONTRADO = Target.the("Link objeto encontrado").locatedBy("//a[starts-with(@title,'{0}')]");
+    public static final Target LNK_ARTICULO_ENCONTRADO = Target.the("Link objeto encontrado").locatedBy("/html/body/div[3]/div/div/div[2]/div[2]/div/div[2]/a[1]");
 
 }

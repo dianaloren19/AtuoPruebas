@@ -3,6 +3,7 @@ package co.com.example.tasks;
 import net.serenitybdd.screenplay.Actor;
 import net.serenitybdd.screenplay.Task;
 import net.serenitybdd.screenplay.actions.Click;
+import net.serenitybdd.screenplay.actions.Enter;
 import net.serenitybdd.screenplay.questions.Visibility;
 
 import static net.serenitybdd.screenplay.Tasks.instrumented;
@@ -21,7 +22,7 @@ public class AgregarProducto implements Task {
             actor.attemptsTo(Click.on(ITEM_ENVIO_DESDE));
         actor.attemptsTo(
                 Click.on(ITEM_ARTICULO), //Seleccionar "color"
-                //Enter.theValue(cantidad).into(INPUT_CANTIDAD), //Ingresar Cantidad
+                Enter.theValue(cantidad).into(INPUT_CANTIDAD), //Ingresar Cantidad
                 Click.on(BOTON_ANADIR_CESTA), //Seleccionar añadir a la cesta
                 Click.on(BOTON_VER_CESTA) //Seleccionar ver la cesta
         );
